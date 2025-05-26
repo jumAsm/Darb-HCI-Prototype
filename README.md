@@ -13,6 +13,7 @@ The app allows users to:
 - Find parking spots with real-time availability
 - Navigate using an interactive map
 - Make secure in-app payments
+![Darb Preview](Darb_view.png)
 
 ---
 
@@ -33,6 +34,3 @@ It applies key HCI principles such as:
 
 ---
 
-## 🖼️ Visual Preview
-
-![Darb Preview](Darb_view.png)
